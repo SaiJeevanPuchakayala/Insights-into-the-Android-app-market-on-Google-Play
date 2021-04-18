@@ -3,20 +3,26 @@ In this Analysis, I have Loaded, cleaned, and visualized Google Play Store data 
 
 Insights that I have drawn are as shown below:
 
-Exploring Apps with their Categories
+### Exploring Apps with their Categories
+
 ![Categories](Plots/Categories.png)
 
-Checking Average of App Ratings
+### Checking Average of App Ratings
+
 ![Average App Ratings](Plots/AverageAppRatings.png)
 
-How the app category and price of an app are related.
+### How the app category and price of an app are related.
+
 ![App Pricing](Plots/AppPricing.png)
 
-Filtering Junk Apps
+### Filtering Junk Apps
+
 ![Pricing Junk Apps](Plots/PricingJunkApps.png)
 
-Popularity of paid apps to free apps
+### Popularity of paid apps to free apps
+
 ![Popularity of Paid to Free](Plots/PopularityPaidtoFree.png)
 
-Analyzing the sentiment analysis of user reviews on android apps on Google Play.
+### Analyzing the sentiment analysis of user reviews on android apps on Google Play.
+
 ![Sentiment Analysis](Plots/SentimentAnalysis.png)
