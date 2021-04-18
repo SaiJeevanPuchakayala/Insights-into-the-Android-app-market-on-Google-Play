@@ -8,7 +8,7 @@ Insights that I have drawn are as shown below:
 ![Categories](Plots/Categories.png)
 
 ### Checking Average of App Ratings
-
+Average app rating =  4.17
 ![Average App Ratings](Plots/AverageAppRatings.png)
 
 ### How the app category and price of an app are related.
